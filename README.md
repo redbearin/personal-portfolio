@@ -21,9 +21,10 @@ Estimate of time needed to complete: 4 hours
 
 Start time: 10:20
 
-Finish time: sometime this weekend
+Finish time: 1:45 (minus time for Power Hour)
 
-Actual time needed to complete: _________
+Actual time needed to complete: 3 hours
+
 
 
 
