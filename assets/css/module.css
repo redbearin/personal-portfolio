@@ -427,7 +427,7 @@ button,
             }
 
                 #nav ul li a.active span:before {
-                    color: #e27689;
+                    color: rgb(255, 102, 0);
                 }
 
 /* Footer */
@@ -520,6 +520,9 @@ button,
         #main > section.four {
             background-color: #e8edec;
         }
+    header h2 {
+        color: black;
+    }
 
 /* Wide */
 
