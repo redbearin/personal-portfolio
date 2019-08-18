@@ -220,7 +220,7 @@ button,
     color: #fff !important;
     text-decoration: none;
     padding: 0.75em 2.5em 0.75em 2.5em;
-    background-color:  rgb(253, 132, 105);
+    background-color: darkgray;
     border: 0;
     cursor: pointer;
     background-image: -moz-linear-gradient(top, rgba(19, 2, 2, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -477,8 +477,9 @@ button,
     }
 
         #main > section.dark {
-            color: #ddd;
-            color: rgba(255, 255, 255, 0.75);
+            /* color: #ddd;
+            color: rgba(255, 255, 255, 0.75); */
+            color: white;
         }
 
             #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -486,7 +487,8 @@ button,
             }
 
             #main > section.dark strong {
-                color:  #ddd;
+                /* color:  #ddd; */
+                color: white;
                 /* color: #fff; */
                 border-color: inherit;
                 font-weight: bolder;
@@ -508,8 +510,9 @@ button,
         }
 
         #main > section.one {
-            background-color: black;
-            background-image: url("../../images/code4.png");
+            /* background-color: #d03a39; */
+
+            background-image: url("../../images/code5.jpg");
         }
 
         #main > section.two {
@@ -526,6 +529,9 @@ button,
         }
         #main > section.four {
             background-color: #e8edec;
+        }
+        #main > section.five {
+            background-color: #e4e8e7;
         }
     header h2 {
         color: black;
