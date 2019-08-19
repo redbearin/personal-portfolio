@@ -40,6 +40,7 @@ section, article {
     .image.fit {
         display: block;
         width: 100%;
+        margin-bottom: 2%;
     }
 
     .image.featured {
@@ -63,6 +64,9 @@ section, article {
             width: auto;
         }
 
+.links {
+    font-size: .9em;
+}
 /* List */
 
 ul {
