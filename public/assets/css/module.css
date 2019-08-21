@@ -537,6 +537,10 @@ button,
         #main > section.five {
             background-color: #e4e8e7;
         }
+        #main > section.six {
+            background-color: #dee1e0;
+        }
+
     header h2 {
         color: black;
     }
